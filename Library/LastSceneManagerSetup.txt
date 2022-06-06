@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/JMU Space Pong.unity
+  isLoaded: 1
+  isActive: 1
